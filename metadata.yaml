@@ -1,0 +1,30 @@
+_repo: Corduroy_70289
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mitchell, Ruth Comfort
+    birthdate: 1882
+    deathdate: 1954
+    gutenberg_agent_id: '9175'
+    url: http://www.gutenberg.org/2009/agents/9175
+    wikipedia: http://www.wikipedia.org/wiki/Ruth_Comfort_Mitchell_Young
+description: ''
+gutenberg_issued: '2023-03-15'
+identifiers:
+  gutenberg: '70289'
+language: en
+pgterms:marc904: https://archive.org/details/corduroy00mitc/page/n1/mod
+pgterms:marc905: 20220630114934mitchell
+pgterms:marc906: '1923'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Library of Congress)
+publication_note: '  $aUnited States :$bD. Appleton and Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Corduroy
+url: http://www.gutenberg.org/ebooks/70289
